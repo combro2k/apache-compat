@@ -1,0 +1,17 @@
+{
+  "name": "combro2k/apache-compat",
+  "description": "A compatibility library for the apache functions",
+  "keywords": ["apache", "headers"],
+  "homepage": "https://github.com/combro2k/apache-compat",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Martijn van Maurik",
+      "email": "git@e-combined.nl",
+      "homepage": "http://www.e-combined.nl"
+    }
+  ],
+  "autoload": {
+    "files": ["lib/apache_functions.php"]
+  }
+}
